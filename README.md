@@ -4,6 +4,7 @@ This is a realtime chat app with websockets that has different channels where us
 ## Deployment
 ```
 npm install
+
 npm run dev
 
 Go to localhost:3000
